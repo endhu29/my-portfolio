@@ -1,0 +1,8 @@
+# Hide profile photo
+public/profile.jpg
+
+# Dependencies
+node_modules/
+
+# Build files
+dist/
